@@ -21,3 +21,12 @@ h6 {
 p {
   margin: 0;
 }
+
+header {
+  border: 2px solid black;
+  padding: 15px;
+  display: flex;
+  justify-content: end;
+  align-items: row;
+
+}

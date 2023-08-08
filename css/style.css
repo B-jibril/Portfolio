@@ -109,6 +109,7 @@ main {
   /* display: flex;
   justify-content: end; */
   flex: 0 0 90%;
+  margin-left: -14%;
 }
 
 .hero-banner h2 {
@@ -164,6 +165,7 @@ main {
 
 .page-section p {
   margin-bottom: 20px;
+  margin-left: 10px;
 
 }
 
@@ -237,32 +239,33 @@ main {
   color: var(--secondary);
 }
 
-.buddy {
-  background-image: url(../images/02-run-buddy.jpg);
+.software {
+  background-image: url(../images/software.jpg);
   position: relative;
   margin-right: 30px;
 }
 
-.lego {
-  background-image: url(../images/02-portfolio-1.jpg);
+.testing {
+  background-image: url(../images/testing.jpg);
   position: relative;
   margin-right: 30px;
   margin-left: 0;
 }
 
-.corgis {
-  background-image: url(../images/02-portfolio-2.jpg);
+.maintenance {
+  background-image: url(../images/maintenance.jpg);
   position: relative;
   margin-right: 30px;
 }
 
-.bacon {
-  background-image: url(../images/02-portfolio-3.jpg);
+.design {
+  background-image: url(../images/design.jpg);
+  background-repeat: no-repeat;
 
 }
 
-.puzzle {
-  background-image: url(../images/02-portfolio-4.jpg);
+.database {
+  background-image: url(../images/database.jpg);
   position: relative;
   margin-right: 30px;
 }
